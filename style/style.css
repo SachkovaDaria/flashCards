@@ -1,0 +1,46 @@
+@import url(modal.css);
+@import url(keyframes.css);
+@import url(cart-set.css);
+@import url(word.css);
+@import url(button.css);
+
+
+body {
+	background: linear-gradient( 70deg, rgba(255, 88, 0, 0.8), rgba(243, 46, 94, 0.7), rgba(192, 62, 141, 0.8));
+	font-family: 'Fira Sans', sans-serif;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+fieldset {
+	border: none;
+}
+
+button {
+	padding: 0;
+	border: none;
+	font: inherit;
+	color: inherit;
+	background-color: transparent;
+}
+
+.learnWords {
+	text-align: center;
+	margin: 0 auto;
+	max-width: 1000px;
+}
+
+.title {
+	font-weight: 900;
+	color: white;
+	text-shadow: 2px 3px 0px #ff5800;
+	margin: 0;
+}
+
+
+
+

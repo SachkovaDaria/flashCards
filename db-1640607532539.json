@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "cart": [
+    {
+      "words": 1,
+      "definition": "json-server",
+      "set": "typicode",
+      "id": 1
+    }
+  ]
+}

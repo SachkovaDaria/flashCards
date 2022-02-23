@@ -1,0 +1,88 @@
+{
+  "cart": [
+    {
+      "word": "big",
+      "definition": "большой",
+      "set": "english adjectives",
+      "id": 2,
+      "isOpen": true
+    },
+    {
+      "word": "boring",
+      "definition": "скучный",
+      "set": "english adjectives",
+      "id": 3,
+      "isOpen": true
+    },
+    {
+      "word": "brave",
+      "definition": "храбрый",
+      "set": "english adjectives",
+      "id": 4,
+      "isOpen": true
+    },
+    {
+      "word": "bright",
+      "definition": "яркий",
+      "set": "english adjectives",
+      "id": 5,
+      "isOpen": true
+    },
+    {
+      "word": "calm",
+      "definition": "спокойный",
+      "set": "english adjectives",
+      "id": 6,
+      "isOpen": true
+    },
+    {
+      "word": "phone",
+      "definition": "телефон",
+      "set": "english nouns",
+      "id": 10,
+      "isOpen": true
+    },
+    {
+      "word": "shop",
+      "definition": "магазин",
+      "set": "english nouns",
+      "id": 11,
+      "isOpen": true
+    },
+    {
+      "word": "in",
+      "definition": "в",
+      "set": "english articles",
+      "id": 13,
+      "isOpen": true
+    },
+    {
+      "word": "cat",
+      "definition": "кот",
+      "set": "animal",
+      "id": 14,
+      "isOpen": true
+    },
+    {
+      "word": "at",
+      "definition": "возле",
+      "set": "english articles",
+      "isOpen": true,
+      "id": 16
+    },
+    {
+      "word": "dog",
+      "definition": "собака",
+      "set": "animal",
+      "isOpen": true,
+      "id": 17
+    },
+    {
+      "word": "snake",
+      "definition": "змея",
+      "set": "animal",
+      "isOpen": true,
+      "id": 18
+    }
+  ]
+}

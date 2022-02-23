@@ -1,0 +1,13 @@
+.button {
+	color: white;
+	background-color: #FF5800;
+	padding: 10px;
+}
+
+.button__container--add {
+	text-align: right;
+}
+
+.button-add:hover {
+	animation: rotate 1s infinite ease;
+}

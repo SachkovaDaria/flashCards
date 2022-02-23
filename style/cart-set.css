@@ -1,0 +1,29 @@
+.cart__set {
+	animation: opacity 0.8s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+    border: 1px solid white;
+    color: white;
+    border-radius: 10px;
+    margin: 10px 10px;
+    cursor: pointer;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 900;
+    width: calc(25% - 20px);
+}
+
+.cart__set:hover {
+	animation: gradient 2s infinite ease;
+}
+
+.set__list {
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.home__button {
+    margin-top: 20px;
+  }
+  
+.home__button:hover {
+      background-color: #fd2701;
+}
