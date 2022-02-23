@@ -1,5 +1,5 @@
 const getApi = (onSuceess, onError) => {
-    fetch('http://localhost:3000/cart')
+    fetch('https://sachkovadaria.github.io/flashCards/db.json')
   
       .then(response => {
         if (!response.ok) {
